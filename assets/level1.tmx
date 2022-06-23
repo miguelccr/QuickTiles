@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="110">
+ <tileset firstgid="1" source="GFX/epictileset.tsx"/>
+ <tileset firstgid="199" source="GFX/Fruits_colored_outline.tsx"/>
+ <layer id="2" name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2klPFFEUhuGzB2TYowi4ZhAx0Q2IqAskIiIqYAiDqASBxCEKhsYVIGjECWdk0MQJEcRh5U/hp/heqwtuYtH2FAu6zpc8aVKp7r6d9Ff3VAcRjUaTSklDOjKwDZnIQjZyfFpTE5rRgrM+rUGj2QrJxXbsQB52Ih8FKPRpTT24hF70+bQGjWazxWtPK0IxSlCK3SjDHpTjiUjossh0G2J5r1ocw/E41jmEEIZxK4rzZ+N4D41mq8VrT6vEAVThIKpxCIdxBHS34grdbY+xv4nkHiZxP8rztb+aICQkf+9p9TiBBpxEI07hNM7gEWM1/V1lH179X+vchaMiv2oQzfnaX00Q4u5pI9axTpxDF87jAi6iW5zZ+XG4v1PoSMIa3Lk60my9F/vp7j7tr0azlo/4hK/MwnXi9OeaOF26jhsYwCBuijM7z/No+ovWq/4s+5/R/mqCEPM9X8Zb+vsgfD87ijHcxjgmcAd30R7ee93+0nuxxRP2VLO3JjXaX00Q8kac77ph9tJ+PMVzvMBLvBKn2K8xg6n1Drfar9Umf/rtKdKczT2tubdNarS/miDE7e4P/MQCvmAp/PdnLFrHlq3nrFDrOes3aGZrM1d7sufsZxL5+pCsz6XRpHpmE/CN2s1b/aXPQp/F3B+bfZ2ZfO268A7v8UHW77k3uj48FAkxy4uXWD6XRpPqSaS/3+kuPZ02/wPSnOBruez+R3NcaYKc34go1QM=
+  </data>
+ </layer>
+ <layer id="13" name="fruitsgraph" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2rEJACAMBED3X00E0YVsdIKIErhrUgW+++ZLAQCy68H/eSUFAAAA5NR+BwCAJHQmAADcN/aNbD/O7qMGswDACwt1EAZ+
+  </data>
+ </layer>
+ <objectgroup id="3" name="ground">
+  <object id="20" x="0" y="112" width="48" height="48"/>
+  <object id="22" x="48" y="160" width="224" height="16"/>
+  <object id="32" x="256" y="128" width="63.3916" height="14.5856"/>
+  <object id="47" x="304" y="160" width="112" height="16"/>
+  <object id="50" x="528" y="192" width="1280" height="16"/>
+  <object id="68" x="671.623" y="78.5238" width="48.3412" height="5.15312"/>
+  <object id="74" x="464" y="176" width="48" height="16"/>
+ </objectgroup>
+ <objectgroup id="14" name="walls">
+  <object id="97" x="512" y="176" width="16" height="16"/>
+  <object id="98" x="864" y="48" width="16" height="144"/>
+  <object id="100" x="240" y="0" width="16" height="160"/>
+ </objectgroup>
+ <objectgroup id="6" name="platforms">
+  <object id="77" x="432" y="48" width="48.0074" height="7.27916"/>
+  <object id="89" x="528" y="96" width="16" height="16"/>
+  <object id="90" x="544" y="96" width="16" height="16"/>
+  <object id="91" x="560" y="96" width="16" height="16"/>
+  <object id="92" x="576" y="96" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="4" name="fruits">
+  <object id="80" x="576" y="32" width="16" height="16"/>
+  <object id="82" x="528" y="176" width="16" height="16"/>
+  <object id="85" x="320" y="32" width="16" height="16"/>
+  <object id="96" x="368" y="128" width="16" height="16"/>
+  <object id="101" x="560" y="176" width="16" height="16"/>
+  <object id="102" x="800" y="176" width="16" height="16"/>
+  <object id="103" x="832" y="176" width="16" height="16"/>
+  <object id="108" x="672" y="96" width="16" height="16"/>
+ </objectgroup>
+</map>

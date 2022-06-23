@@ -1,0 +1,11 @@
+unnamed.png
+	size: 512, 256
+	repeat: none
+16x16_baz
+	bounds: 2, 92, 320, 80
+Astronaut-Sheet
+	bounds: 2, 2, 224, 64
+SnailEnemy
+	bounds: 2, 68, 288, 22
+tiny_adventurer_sheet
+	bounds: 324, 19, 132, 153
